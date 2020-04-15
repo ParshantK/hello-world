@@ -1,2 +1,2 @@
 # hello-world
-How to
+How to work in a branch.
